@@ -19,7 +19,8 @@ Not much.
 There's just a few stipulations if you decide to use our source files:
 
  1. Use of The Register-Guard logo(s) is prohibited.
- 2. [Fork this repo][5], modify it to suit your needs, and store the final version on Github (via the forked repo) for others to fork for their Tecnavia e-Edition projects.
+ 2. [Fork this repo][5], modify it to suit your needs, and store the final version on Github (via the forked repo).
+ 3. Modify the README (this file) to instruct folks on how to fork/modify/share their own version of your repository. :)
 
 That's it!
 
