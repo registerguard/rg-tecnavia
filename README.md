@@ -23,7 +23,11 @@ There's just a few stipulations if you decide to use our source files:
 
 That's it!
 
-micky [at] registerguard [dot] com
+### Notes:
+
+  * The PSD file uses Helvetica Neue Bold for the icon labels.
+  * Photoshop CS5+ required to open e-edition.v5.slice.psd
+  * micky [at] registerguard [dot] com
 
 ## Changelog:
 
