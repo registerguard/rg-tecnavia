@@ -32,6 +32,11 @@ That's it!
 
 ## Changelog:
 
+* v1.1: __2011/11/14__
+	* Swapped slice names for "graphic-toggle.png" and "text-toggle.png".
+	* Updated "graphic-toggle.png" and "text-toggle.png" images in "for-tecnavia/lower/".
+	* Updated changelog section in README.md.
+
 * v1.0: __2011/09/13__
 	* Initial public release.
 	* Uploaded to GitHub.
